@@ -1,14 +1,24 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  "news": [
+    {
+      "title": "New 01",
+      "text": "Text 01"
+    },
+    {
+      "title": "New 02",
+      "text": "Text 02"
+    },
+    {
+      "title": "New 03",
+      "text": "Text 03"
+    },
+    {
+      "title": "New 04",
+      "text": "Text 04"
+    },
+    {
+      "title": "New 05",
+      "text": "Text 05"
+    }
+  ]
 }
