@@ -1,22 +1,27 @@
 {
   "news": [
     {
+      "id": 1,
       "title": "New 01",
       "text": "Text 01"
     },
     {
+      "id": 2,
       "title": "New 02",
       "text": "Text 02"
     },
     {
+      "id": 3,
       "title": "New 03",
       "text": "Text 03"
     },
     {
+      "id": 4,
       "title": "New 04",
       "text": "Text 04"
     },
     {
+      "id": 5,
       "title": "New 05",
       "text": "Text 05"
     }
